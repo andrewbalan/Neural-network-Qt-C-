@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/learn">
+        <file>train-images.dat</file>
+    </qresource>
+</RCC>
