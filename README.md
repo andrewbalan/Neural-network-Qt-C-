@@ -8,8 +8,3 @@ Backpropagation algorithm is used for learning network and gradient
 descent for minimizing cost function.
 
 ![App screen](./screen.png)
-
-
-# License
-
-[MIT](/LICENSE)
